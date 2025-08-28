@@ -27,7 +27,7 @@ Pixel Assistant is a voice-activated personal assistant built in Python. It can 
 - Python 3.10+
 - Libraries:
   ```bash
-  pip install SpeechRecognition gTTS pygame requests openai beautifulsoup4
+ #visit requirement.txt
 
 
 NEEDED_____
